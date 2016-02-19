@@ -1,6 +1,6 @@
 University of Novi Sad Faculty of Technical Science
 
-Computer Graphics
+Computer Graphics 2015/2016
 
 # OpenGL_project
 
